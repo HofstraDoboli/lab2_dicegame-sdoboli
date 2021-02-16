@@ -11,16 +11,6 @@
       "points": 10
     },
     {
-      "name": "test input",
-      "setup": "make input",
-      "run": "./input",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 1,
-      "points": 10
-    },
-    {
       "name": "test dice",
       "setup": "make dice",
       "run": "./dice",
